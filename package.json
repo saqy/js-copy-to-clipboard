@@ -1,6 +1,6 @@
 {
   "name": "js-copy-to-clipboard",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "adds copy to clipboard feature for javascript and typescript projects",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
