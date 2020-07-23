@@ -36,5 +36,9 @@
     "@types/jest": "^26.0.4",
     "jest": "^26.1.0",
     "ts-jest": "^26.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saqy/js-copy-to-clipboard.git"
   }
 }
